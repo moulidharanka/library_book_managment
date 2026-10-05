@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library Management System",
+  "description": "An interactive library management system powered by hand-crafted data structures (Linked List, Hash Table, Queue, Stack, BST, custom sorting and searching) with live visualizers and complexity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
